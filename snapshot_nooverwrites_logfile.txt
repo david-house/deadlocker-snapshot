@@ -1,0 +1,250 @@
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 30 Attempt 1/10 ClaimID 31 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 31 Attempt 1/10 ClaimID 32 lock ATTEMPTED
+2023-09-04T17:43:12.4131583-04:00 Info PaymentApi.Controllers.PayController Worker 5 Attempt 1/10 ClaimID 6 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 28 Attempt 1/10 ClaimID 29 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 4 Attempt 1/10 ClaimID 5 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 26 Attempt 1/10 ClaimID 27 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 29 Attempt 1/10 ClaimID 30 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 22 Attempt 1/10 ClaimID 23 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 20 Attempt 1/10 ClaimID 21 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 0 Attempt 1/10 ClaimID 1 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 10 Attempt 1/10 ClaimID 11 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 2 Attempt 1/10 ClaimID 3 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 25 Attempt 1/10 ClaimID 26 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 6 Attempt 1/10 ClaimID 7 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 3 Attempt 1/10 ClaimID 4 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 1 Attempt 1/10 ClaimID 2 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 24 Attempt 1/10 ClaimID 25 lock ATTEMPTED
+2023-09-04T17:43:12.4131583-04:00 Info PaymentApi.Controllers.PayController Worker 21 Attempt 1/10 ClaimID 22 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 23 Attempt 1/10 ClaimID 24 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 17 Attempt 1/10 ClaimID 18 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 18 Attempt 1/10 ClaimID 19 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 16 Attempt 1/10 ClaimID 17 lock ATTEMPTED
+2023-09-04T17:43:12.4131583-04:00 Info PaymentApi.Controllers.PayController Worker 8 Attempt 1/10 ClaimID 9 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 12 Attempt 1/10 ClaimID 13 lock ATTEMPTED
+2023-09-04T17:43:12.3813364-04:00 Info PaymentApi.Controllers.PayController Worker 11 Attempt 1/10 ClaimID 12 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 15 Attempt 1/10 ClaimID 16 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 19 Attempt 1/10 ClaimID 20 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 14 Attempt 1/10 ClaimID 15 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 9 Attempt 1/10 ClaimID 10 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 7 Attempt 1/10 ClaimID 8 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 33 Attempt 1/10 ClaimID 34 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 32 Attempt 1/10 ClaimID 33 lock ATTEMPTED
+2023-09-04T17:43:12.3884517-04:00 Info PaymentApi.Controllers.PayController Worker 34 Attempt 1/10 ClaimID 35 lock ATTEMPTED
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker   0 ClaimId   1 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker   4 ClaimId   5 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651840-04:00 Info PaymentApi.Controllers.PayController Worker  18 ClaimId  19 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker  12 ClaimId  13 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker  20 ClaimId  21 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker   2 ClaimId   3 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker  34 ClaimId  35 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4651838-04:00 Info PaymentApi.Controllers.PayController Worker  10 ClaimId  11 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4674931-04:00 Info PaymentApi.Controllers.PayController Worker   5 ClaimId   6 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4674931-04:00 Info PaymentApi.Controllers.PayController Worker  11 ClaimId  12 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4674931-04:00 Info PaymentApi.Controllers.PayController Worker  28 ClaimId  29 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4674931-04:00 Info PaymentApi.Controllers.PayController Worker  30 ClaimId  31 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4674931-04:00 Info PaymentApi.Controllers.PayController Worker   3 ClaimId   4 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4833824-04:00 Info PaymentApi.Controllers.PayController Worker  31 ClaimId  32 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4833824-04:00 Info PaymentApi.Controllers.PayController Worker   9 ClaimId  10 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4833824-04:00 Info PaymentApi.Controllers.PayController Worker  24 ClaimId  25 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.4833824-04:00 Info PaymentApi.Controllers.PayController Worker  17 ClaimId  18 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker   8 ClaimId   9 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker  26 ClaimId  27 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 34 Attempt 1/10 ClaimID 35 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 17 Attempt 1/10 ClaimID 18 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 10 Attempt 1/10 ClaimID 11 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 3 Attempt 1/10 ClaimID 4 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 30 Attempt 1/10 ClaimID 31 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 2 Attempt 1/10 ClaimID 3 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 12 Attempt 1/10 ClaimID 13 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 26 Attempt 1/10 ClaimID 27 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 8 Attempt 1/10 ClaimID 9 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 18 Attempt 1/10 ClaimID 19 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 31 Attempt 1/10 ClaimID 32 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 28 Attempt 1/10 ClaimID 29 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 4 Attempt 1/10 ClaimID 5 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 5 Attempt 1/10 ClaimID 6 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 11 Attempt 1/10 ClaimID 12 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 24 Attempt 1/10 ClaimID 25 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 0 Attempt 1/10 ClaimID 1 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 9 Attempt 1/10 ClaimID 10 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 20 Attempt 1/10 ClaimID 21 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker  21 ClaimId  22 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker 21 Attempt 1/10 ClaimID 22 lock ACQUIRED
+2023-09-04T17:43:12.5034940-04:00 Info PaymentApi.Controllers.PayController Worker  29 ClaimId  30 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker 29 Attempt 1/10 ClaimID 30 lock ACQUIRED
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker  22 ClaimId  23 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker 22 Attempt 1/10 ClaimID 23 lock ACQUIRED
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker  25 ClaimId  26 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker 25 Attempt 1/10 ClaimID 26 lock ACQUIRED
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker  14 ClaimId  15 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker 14 Attempt 1/10 ClaimID 15 lock ACQUIRED
+2023-09-04T17:43:12.5144372-04:00 Info PaymentApi.Controllers.PayController Worker   6 ClaimId   7 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5293004-04:00 Info PaymentApi.Controllers.PayController Worker 6 Attempt 1/10 ClaimID 7 lock ACQUIRED
+2023-09-04T17:43:12.5293004-04:00 Info PaymentApi.Controllers.PayController Worker  19 ClaimId  20 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5293004-04:00 Info PaymentApi.Controllers.PayController Worker 19 Attempt 1/10 ClaimID 20 lock ACQUIRED
+2023-09-04T17:43:12.5293004-04:00 Info PaymentApi.Controllers.PayController Worker  33 ClaimId  34 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5293004-04:00 Info PaymentApi.Controllers.PayController Worker 33 Attempt 1/10 ClaimID 34 lock ACQUIRED
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker  16 ClaimId  17 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker 16 Attempt 1/10 ClaimID 17 lock ACQUIRED
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker   1 ClaimId   2 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker 1 Attempt 1/10 ClaimID 2 lock ACQUIRED
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker  23 ClaimId  24 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5461470-04:00 Info PaymentApi.Controllers.PayController Worker 23 Attempt 1/10 ClaimID 24 lock ACQUIRED
+2023-09-04T17:43:12.5604334-04:00 Info PaymentApi.Controllers.PayController Worker  32 ClaimId  33 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5604334-04:00 Info PaymentApi.Controllers.PayController Worker 32 Attempt 1/10 ClaimID 33 lock ACQUIRED
+2023-09-04T17:43:12.5604334-04:00 Info PaymentApi.Controllers.PayController Worker   7 ClaimId   8 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5604334-04:00 Info PaymentApi.Controllers.PayController Worker 7 Attempt 1/10 ClaimID 8 lock ACQUIRED
+2023-09-04T17:43:12.5604334-04:00 Info PaymentApi.Controllers.PayController Worker  15 ClaimId  16 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 15 Attempt 1/10 ClaimID 16 lock ACQUIRED
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 22 Claim 23 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 7 Claim 8 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 32 Claim 33 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 12 Claim 13 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 28 Claim 29 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 25 Claim 26 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 19 Claim 20 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 16 Claim 17 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 21 Claim 22 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 4 Claim 5 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 6 Claim 7 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 0 Claim 1 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 26 Claim 27 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 5 Claim 6 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 23 Claim 24 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 30 Claim 31 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 18 Claim 19 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 14 Claim 15 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 17 Claim 18 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 20 Claim 21 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 8 Claim 9 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 10 Claim 11 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 11 Claim 12 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 31 Claim 32 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 1 Claim 2 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 12 Claim 13 successfully COMMITTED.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 22 Claim 23 successfully COMMITTED.
+2023-09-04T17:43:12.5765370-04:00 Info PaymentApi.Controllers.PayController Worker 7 Claim 8 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 32 Claim 33 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 3 Claim 4 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 28 Claim 29 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 21 Claim 22 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 25 Claim 26 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 19 Claim 20 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 33 Claim 34 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 4 Claim 5 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 16 Claim 17 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 24 Claim 25 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 2 Claim 3 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 5 Claim 6 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 14 Claim 15 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 6 Claim 7 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 29 Claim 30 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 30 Claim 31 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 15 Claim 16 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 9 Claim 10 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 0 Claim 1 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 34 Claim 35 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 18 Claim 19 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 20 Claim 21 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 10 Claim 11 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 31 Claim 32 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 8 Claim 9 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 3 Claim 4 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 11 Claim 12 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 23 Claim 24 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 26 Claim 27 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 17 Claim 18 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 1 Claim 2 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 9 Claim 10 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 15 Claim 16 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 34 Claim 35 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 33 Claim 34 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 24 Claim 25 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 2 Claim 3 successfully COMMITTED.
+2023-09-04T17:43:12.5913873-04:00 Info PaymentApi.Controllers.PayController Worker 29 Claim 30 successfully COMMITTED.
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 13 Attempt 1/10 ClaimID 14 lock ATTEMPTED
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 27 Attempt 1/10 ClaimID 28 lock ATTEMPTED
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 35 Attempt 1/10 ClaimID 36 lock ATTEMPTED
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker  27 ClaimId  28 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker  13 ClaimId  14 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker  35 ClaimId  36 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 27 Attempt 1/10 ClaimID 28 lock ACQUIRED
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 13 Attempt 1/10 ClaimID 14 lock ACQUIRED
+2023-09-04T17:43:12.6111586-04:00 Info PaymentApi.Controllers.PayController Worker 35 Attempt 1/10 ClaimID 36 lock ACQUIRED
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 36 Attempt 1/10 ClaimID 37 lock ATTEMPTED
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 37 Attempt 1/10 ClaimID 38 lock ATTEMPTED
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 27 Claim 28 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 13 Claim 14 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 35 Claim 36 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 27 Claim 28 successfully COMMITTED.
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 35 Claim 36 successfully COMMITTED.
+2023-09-04T17:43:12.6222586-04:00 Info PaymentApi.Controllers.PayController Worker 13 Claim 14 successfully COMMITTED.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  37 ClaimId  38 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  36 ClaimId  37 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 37 Attempt 1/10 ClaimID 38 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 36 Attempt 1/10 ClaimID 37 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 37 Claim 38 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 36 Claim 37 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 36 Claim 37 successfully COMMITTED.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 37 Claim 38 successfully COMMITTED.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 38 Attempt 1/10 ClaimID 39 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 45 Attempt 1/10 ClaimID 46 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 44 Attempt 1/10 ClaimID 45 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 43 Attempt 1/10 ClaimID 44 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 48 Attempt 1/10 ClaimID 49 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 49 Attempt 1/10 ClaimID 50 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 47 Attempt 1/10 ClaimID 48 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 46 Attempt 1/10 ClaimID 47 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 42 Attempt 1/10 ClaimID 43 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 41 Attempt 1/10 ClaimID 42 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 40 Attempt 1/10 ClaimID 41 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 39 Attempt 1/10 ClaimID 40 lock ATTEMPTED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  45 ClaimId  46 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  38 ClaimId  39 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  44 ClaimId  45 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  43 ClaimId  44 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  48 ClaimId  49 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  49 ClaimId  50 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  47 ClaimId  48 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  46 ClaimId  47 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  42 ClaimId  43 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  41 ClaimId  42 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 45 Attempt 1/10 ClaimID 46 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  40 ClaimId  41 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker  39 ClaimId  40 Attempt   1/10 is unlocked. Attempt to acquire.
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 38 Attempt 1/10 ClaimID 39 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 44 Attempt 1/10 ClaimID 45 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 48 Attempt 1/10 ClaimID 49 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 43 Attempt 1/10 ClaimID 44 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 49 Attempt 1/10 ClaimID 50 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 46 Attempt 1/10 ClaimID 47 lock ACQUIRED
+2023-09-04T17:43:12.6391862-04:00 Info PaymentApi.Controllers.PayController Worker 47 Attempt 1/10 ClaimID 48 lock ACQUIRED
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 42 Attempt 1/10 ClaimID 43 lock ACQUIRED
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 39 Attempt 1/10 ClaimID 40 lock ACQUIRED
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 45 Claim 46 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 48 Claim 49 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 46 Claim 47 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 38 Claim 39 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 49 Claim 50 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 42 Claim 43 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 47 Claim 48 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 44 Claim 45 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 39 Claim 40 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 43 Claim 44 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 45 Claim 46 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 49 Claim 50 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 42 Claim 43 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 39 Claim 40 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 38 Claim 39 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 44 Claim 45 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 46 Claim 47 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 43 Claim 44 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 48 Claim 49 successfully COMMITTED.
+2023-09-04T17:43:12.6534631-04:00 Info PaymentApi.Controllers.PayController Worker 47 Claim 48 successfully COMMITTED.
+2023-09-04T17:43:12.6743195-04:00 Info PaymentApi.Controllers.PayController Worker 41 Attempt 1/10 ClaimID 42 lock ACQUIRED
+2023-09-04T17:43:12.6743195-04:00 Info PaymentApi.Controllers.PayController Worker 40 Attempt 1/10 ClaimID 41 lock ACQUIRED
+2023-09-04T17:43:12.6743195-04:00 Info PaymentApi.Controllers.PayController Worker 40 Claim 41 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6743195-04:00 Info PaymentApi.Controllers.PayController Worker 41 Claim 42 successfully wrote payment and reserve change.
+2023-09-04T17:43:12.6853230-04:00 Info PaymentApi.Controllers.PayController Worker 40 Claim 41 successfully COMMITTED.
+2023-09-04T17:43:12.6853230-04:00 Info PaymentApi.Controllers.PayController Worker 41 Claim 42 successfully COMMITTED.
